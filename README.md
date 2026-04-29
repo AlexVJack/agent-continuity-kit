@@ -6,13 +6,15 @@ Chats age. Context gets heavy. Agents start repeating, flattering, offering
 menus, over-structuring, and losing the line. Documentation may exist, but it
 often fails to guide the next agent instance into the living shape of the work.
 
-This repository shows a small continuity structure that helps preserve living
-project lines without turning memory into an archive.
+This repository shows a small orientation layer for preserving living lines
+across AI-assisted projects and agent instances.
 
-It is a thin orientation layer. Your actual projects should keep living in their
-own repositories or directories. Continuity points to them, tracks the living
-lines between them, and helps the next agent instance re-enter without absorbing
-the projects themselves.
+> This is a thin cross-project orientation layer, not a workspace, archive, or
+> knowledge base.
+
+Your actual projects should keep living in their own repositories or directories.
+Continuity points to them, tracks the living lines between them, and helps the
+next agent instance re-enter without absorbing the projects themselves.
 
 ## The Core Gesture
 

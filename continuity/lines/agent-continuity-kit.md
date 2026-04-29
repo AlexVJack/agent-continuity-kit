@@ -14,11 +14,14 @@ into an archive or a heavy governance system.
 
 The core structure is intentionally small:
 
-- root `AGENTS.md` for the agent behavior frame
 - `continuity/AGENTS.md` for continuity ethos
 - `continuity/MAP.md` for a short map of active lines
 - `continuity/lines/` for dense line notes
 - `examples/` and `templates/` only as teaching supports
+
+The projects themselves live elsewhere. This kit is a thin orientation layer that
+points to project homes and preserves the shape of living lines between agent
+instances.
 
 ## What Changed Recently
 
@@ -33,6 +36,7 @@ projects that produced it.
 - Selling it as mystical AI memory instead of practical continuity hygiene.
 - Making the kit about its origin story instead of the simple transferable gesture.
 - Letting agents optimize subtopics while losing the larger line.
+- Absorbing actual projects into the continuity layer.
 
 ## Next Useful Move
 

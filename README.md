@@ -6,8 +6,13 @@ Chats age. Context gets heavy. Agents start repeating, flattering, offering
 menus, over-structuring, and losing the line. Documentation may exist, but it
 often fails to guide the next agent instance into the living shape of the work.
 
-This repository shows a small repo-local continuity structure that helps
-preserve living project lines without turning memory into an archive.
+This repository shows a small continuity structure that helps preserve living
+project lines without turning memory into an archive.
+
+It is a thin orientation layer. Your actual projects should keep living in their
+own repositories or directories. Continuity points to them, tracks the living
+lines between them, and helps the next agent instance re-enter without absorbing
+the projects themselves.
 
 ## The Core Gesture
 
@@ -24,7 +29,6 @@ After meaningful work, leave a short living sediment:
 The minimal structure is:
 
 ```text
-AGENTS.md
 continuity/
   AGENTS.md
   MAP.md
@@ -43,8 +47,6 @@ templates/
 
 ## What Each Part Does
 
-`AGENTS.md` sets the behavior frame for agents working in this repository.
-
 `continuity/AGENTS.md` describes the ethos of continuity: preserve living lines, not transcripts.
 
 `continuity/MAP.md` is a short map of active lines by ripening stage: `idea -> seed -> sprout -> plant -> fruit`.
@@ -54,6 +56,17 @@ templates/
 `examples/` shows the difference between a messy session summary and a usable continuity line.
 
 `templates/` provides copyable starting points, not a rigid process.
+
+## Where Projects Live
+
+This kit is not a project workspace.
+
+Projects should live in their own repositories or directories. A continuity line
+may reference a project path, repository, document, or artifact, but it should
+not absorb the project itself.
+
+Use this layer to preserve orientation across projects and agent instances, not
+to centralize all work into one master archive.
 
 ## See The Difference
 
@@ -125,7 +138,6 @@ the thing it was meant to prevent.
 Copy this structure into a long-running repository:
 
 ```text
-AGENTS.md
 continuity/
   AGENTS.md
   MAP.md

@@ -59,6 +59,16 @@ templates/
 
 `templates/` provides copyable starting points, not a rigid process.
 
+## Who Maintains It
+
+The AI agent may update this layer after meaningful work, but only when a real
+shift occurred. The human remains the calibrator of what is actually alive.
+
+This fits naturally with CLI-based agents such as Claude Code, OpenCode, Gemini
+CLI, or similar tools that can read and edit files directly inside a workspace.
+The continuity layer gives those agents a small re-entry surface without asking
+the human to become an archivist.
+
 ## Where Projects Live
 
 This kit is not a project workspace.

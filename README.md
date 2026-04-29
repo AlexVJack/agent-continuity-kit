@@ -2,9 +2,12 @@
 
 AI agents are useful, but long projects rot.
 
-Chats age. Context gets heavy. Agents start repeating, flattering, offering menus, over-structuring, and losing the line. Documentation may exist, but it often fails to guide the next agent instance into the living shape of the work.
+Chats age. Context gets heavy. Agents start repeating, flattering, offering
+menus, over-structuring, and losing the line. Documentation may exist, but it
+often fails to guide the next agent instance into the living shape of the work.
 
-This repository shows a small repo-local continuity structure that helps preserve living project lines without turning memory into an archive.
+This repository shows a small repo-local continuity structure that helps
+preserve living project lines without turning memory into an archive.
 
 ## The Core Gesture
 
@@ -52,6 +55,13 @@ templates/
 
 `templates/` provides copyable starting points, not a rigid process.
 
+## See The Difference
+
+Compare a noisy session summary with a usable continuity line:
+
+- [before: messy session](examples/before/messy-session.md)
+- [after: continuity line](examples/after/continuity-line.md)
+
 ## When This Helps
 
 This helps when:
@@ -77,16 +87,29 @@ This is not for:
 
 This kit is distilled from heavier experiments.
 
-The early failure was building a whole environment instead of a small continuity surface. It tried to hold many projects, personal context, agent identity, diary, rituals, project maps, cross-links, and operating instructions in one place. It was alive, but too heavy.
+The early failure was building a whole environment instead of a small continuity
+surface. It tried to hold many projects, personal context, agent identity,
+diary, rituals, project maps, cross-links, and operating instructions in one
+place. It was alive, but too heavy.
 
-Another failure was compensating for weight with retrieval. A semantic/vector search layer can help find fragments, but it does not solve continuity by itself. If the underlying memory is too large or too salty, search only makes the salt easier to retrieve.
+Another failure was compensating for weight with retrieval. A semantic/vector
+search layer can help find fragments, but it does not solve continuity by
+itself. If the underlying memory is too large or too salty, search only makes
+the salt easier to retrieve.
 
-Later versions became better by narrowing scope: one project, one lens, one index, one lessons file. That helped, but it still tended to grow into project-specific laboratory infrastructure.
+When memory grows faster than judgment, agents can search more but understand
+less.
+
+Later versions became better by narrowing scope: one project, one lens, one
+index, one lessons file. That helped, but it still tended to grow into
+project-specific laboratory infrastructure.
 
 The sharper lesson is this:
 
 Continuity should make context lighter.
-If the system requires a search engine, a long startup ritual, or a large reading path before the agent can act, the continuity layer has probably become the thing it was meant to prevent.
+If the system requires a search engine, a long startup ritual, or a large
+reading path before the agent can act, the continuity layer has probably become
+the thing it was meant to prevent.
 
 ## Design Rules
 

@@ -21,11 +21,13 @@ If it grows quickly, it is carrying the territory instead of the map.
 
 ## seed
 
-- `context-desalination` - a line about turning noisy project memory into a small amount of useful orientation. Line: `lines/context-desalination.md`
+- `context-desalination` - a line about turning noisy project memory into a
+  small amount of useful orientation. Line: `lines/context-desalination.md`
 
 ## sprout
 
-- `agent-continuity-kit` - a minimal repo-local structure for preserving living project lines across AI instances. Line: `lines/agent-continuity-kit.md`
+- `agent-continuity-kit` - a minimal repo-local structure for preserving living
+  project lines across AI instances. Line: `lines/agent-continuity-kit.md`
 
 ## plant
 

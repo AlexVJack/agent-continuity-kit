@@ -6,8 +6,9 @@
 
 ## What This Line Is
 
-A small public example of repo-local continuity for long-running AI-assisted projects.
-It shows how to preserve living project lines without turning memory into an archive or a heavy governance system.
+A small public example of repo-local continuity for long-running AI-assisted
+projects. It shows how to preserve living project lines without turning memory
+into an archive or a heavy governance system.
 
 ## Current Shape
 
@@ -21,7 +22,9 @@ The core structure is intentionally small:
 
 ## What Changed Recently
 
-The idea shifted from private context management to a copyable public port: a way for other people to see the continuity practice without inheriting the private projects that produced it.
+The idea shifted from private context management to a copyable public port: a way
+for other people to see the continuity practice without inheriting the private
+projects that produced it.
 
 ## Drift Risks
 
@@ -33,4 +36,5 @@ The idea shifted from private context management to a copyable public port: a wa
 
 ## Next Useful Move
 
-Keep the first public version small enough that someone can understand and copy it in a few minutes.
+Keep the first public version small enough that someone can understand and copy
+it in a few minutes.
